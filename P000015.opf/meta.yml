@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: རྒྱུད་གསང་བ་སྙིང་པོ། །
+  authors:
+  - 'མཛད་པ་པོ། '
+  sku: SHE-006
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: The Secret Essance Tantra
+    bo: རྒྱུད་གསང་བ་སྙིང་པོ།
+  collection:
+    en: Shechen Tantra Series–  Book 6
+    bo: ''
+  author:
+    en: Missing
+    bo: ''
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-006
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-006.epub
+  description:
+    en: ''
+    bo: ''
