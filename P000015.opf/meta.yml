@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000015
+initial_creation_type: ebook
+source_metadata:
   title: རྒྱུད་གསང་བ་སྙིང་པོ། །
   authors:
   - 'མཛད་པ་པོ། '
-  sku: SHE-006
   layers:
   - book_title
   - author
   - chapter_title
   - sabche
   - yigchung
+  id: SHE-006
 web_metadata:
   title:
     en: The Secret Essance Tantra
